@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:newtest" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e3b85e2-1f6f-409d-ac1a-409c33aaaadb" name="Default Changelist" comment="add readme.txt">
+      <change beforePath="$PROJECT_DIR$/runoob.php" beforeDir="false" afterPath="$PROJECT_DIR$/runoob.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itextpdf/test/readme" beforeDir="false" />
+    </list>
+    <list id="4ccb3196-b184-4602-911f-40b2d57b6c4f" name="Revert &quot;修改 runoob.php&quot;" comment="Revert &quot;修改 runoob.php&quot;&#10;&#10;This reverts commit b34ecb2a" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="newtest" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="32PJvQqkPAR1STkXPR7EjjGEXKQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3b85e2-1f6f-409d-ac1a-409c33aaaadb" name="Default Changelist" comment="" />
+      <created>1757316503959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757316503959</updated>
+      <workItem from="1757316510472" duration="1094000" />
+      <workItem from="1757319017125" duration="3532000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改 runoob.php">
+      <created>1757319172963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757319172963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add readme.txt">
+      <created>1757319872888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757319872888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="newtest" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改 runoob.php" />
+    <MESSAGE value="add readme.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1757319798029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1757319798029" />
+    <state x="509" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1757319824080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1757319824080" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1757321146789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1757321146789" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1757322592187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1757322592187" />
+    <state x="547" y="114" key="RollbackChangesDialog" timestamp="1757319277419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1757319277419" />
+    <state x="566" y="109" key="VCS.ChangeListViewerDialog" timestamp="1757319932586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="109" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1757319932586" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1757320307221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1757320307221" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1757320610585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1757320610585" />
+  </component>
+</project>
