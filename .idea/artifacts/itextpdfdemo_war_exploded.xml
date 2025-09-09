@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="itextpdfdemo:war exploded">
+    <output-path>$PROJECT_DIR$/target/itextpdfdemo</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>itextpdfdemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="itextpdfdemo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.itextpdf:itextpdf:5.5.10" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/itextpdfdemo/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="itextpdfdemo/web/Web" />
+    </root>
+  </artifact>
+</component>
