@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6ee199-f4ee-4743-9624-644b7b6c36c9" name="Default Changelist" comment="add readme.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/itextpdfdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/itextpdfdemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f6ee199-f4ee-4743-9624-644b7b6c36c9" name="Default Changelist" comment="add readme.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
