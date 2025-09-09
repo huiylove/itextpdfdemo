@@ -20,16 +20,15 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:newtest" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e3b85e2-1f6f-409d-ac1a-409c33aaaadb" name="Default Changelist" comment="add readme.txt">
-      <change beforePath="$PROJECT_DIR$/runoob.php" beforeDir="false" afterPath="$PROJECT_DIR$/runoob.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itextpdf/test/readme" beforeDir="false" />
+    <list default="true" id="6f6ee199-f4ee-4743-9624-644b7b6c36c9" name="Default Changelist" comment="add readme.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/itextpdfdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/itextpdfdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
-    <list id="4ccb3196-b184-4602-911f-40b2d57b6c4f" name="Revert &quot;修改 runoob.php&quot;" comment="Revert &quot;修改 runoob.php&quot;&#10;&#10;This reverts commit b34ecb2a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
